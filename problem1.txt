@@ -1,0 +1,1 @@
+Dada la ecuación cuadrática ${eq1}$. Identifique los valores de a, b, c y resuelva la ecuación usando la formula cuadrática ${formula}$.
